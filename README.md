@@ -1,4 +1,5 @@
-## Hi there 👋
+### About me
+## Hi there 👋 My name is Subin Park. Nice to meet you!
 
 <!--
 **binxni/binxni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
