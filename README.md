@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binxni&label=Profile%20views&color=0e75b6&style=flat" alt="binxni" /> </p>
 
-- 🌱 I’m currently learning **Deeplearning, ComputerVision, and Reinforcement Learning**
+- 🌱 I’m currently learning **Deeplearning, Computer Vision, and Reinforcement Learning**
 
 - 📫 How to reach me **psb1601@naver.com**
 
