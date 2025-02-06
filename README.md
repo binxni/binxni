@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binxni&label=Profile%20views&color=0e75b6&style=flat" alt="binxni" /> </p>
 
-- 🔭 I’m currently working on [LG Aimers Hackathon 5th](https://github.com/binxni/LG-Aimers-5th)
+- 🌱 I’m currently learning **Deeplearning, ComputerVision, and Reinforcement Learning**
 
-- 🌱 I’m currently learning **Deeplearning**
-
-- 📫 How to reach me **x1ifeiscodingx@gmail.com**
+- 📫 How to reach me **psb1601@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
