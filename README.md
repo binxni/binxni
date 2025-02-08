@@ -1,8 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20world!🤚%20I'm%20Subin%20Park&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0091ff,100:00fffb&height=120&text=Hello!🤚%20I'm%20Subin%20Park&animation=fadeIn&fontColor=212121&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊Hello world! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊 Hello world! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 🏫 I'm currently studying in Soongsil University</li><li> ✏️ I'm currently studying in Computer Vision and Reinforcement Learning </div> 
     </div>
     <div style="text-align: left;">
