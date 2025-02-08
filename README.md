@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **psb1601@naver.com**
 
-<h3 align="left">Connect with me: psb1601@naver.com </h3>
 <p align="left">
 </p>
 
